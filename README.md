@@ -27,3 +27,11 @@ Scrivi un programma Java che prende due numeri da tastiera e stampa “I numeri 
 Esercizio 7
 
 Scrivi un programma Java che prende due numeri da tastiera e stampa quello è più grande. Ignorare il caso in cui siano uguali
+
+Esercizio 8
+
+Scrivi un programma Java che chieda all'utente di inserire la base e l'altezza di una figura geometrica. Successivamente, richiedi di inserire un numero:
+
+Se l'utente inserisce 0, il programma calcolerà e stamperà l'area di un triangolo utilizzando la formula: area=base×altezza/2.
+
+Se l'utente inserisce un numero diverso da 0, il programma calcolerà e stamperà l'area di un rettangolo utilizzando la formula: area=base×altezza
