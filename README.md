@@ -7,3 +7,7 @@ Scrivi un programma Java che prende un numero da tastiera è stampa “numero po
 Esercizio 2
 
 Scrivi un programma che chieda all'utente la sua età e stampi un messaggio se è maggiorenne o minorenne.
+
+Esercizio 3
+
+Scrivi un programma che chieda all'utente la temperatura e stampi un messaggio se è superiore o inferiore a 30 gradi.
