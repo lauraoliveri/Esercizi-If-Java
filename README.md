@@ -23,3 +23,7 @@ Scrivi un programma che chieda all'utente il saldo del suo conto e stampi un mes
 Esercizio 6
 
 Scrivi un programma Java che prende due numeri da tastiera e stampa “I numeri inseriti sono uguali” se i due numeri sono uguali e viceversa stampa “I numeri inseriti sono diversi”. Ignorare il caso in cui i due numeri sono uguali.
+
+Esercizio 7
+
+Scrivi un programma Java che prende due numeri da tastiera e stampa quello è più grande. Ignorare il caso in cui siano uguali
